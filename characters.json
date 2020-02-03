@@ -704,6 +704,48 @@
         "name": "Republic Attack Cruiser",
         "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSt_5VcKJHEOm4hNOiNLi_yMpY5x72G0KglkG9mOt398gtCNip6",
         "url": "https://swapi.co/api/starships/63/"
+      },
+      {
+        "id": 64,
+        "name": "Naboo Star Skiff",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRj0qkKx-P3x-mFGzk28cT9cIY5hLI5eQJlU1I57TpkUuZzKnm9",
+        "url": "https://swapi.co/api/starships/64/"
+      },
+      {
+        "id": 65,
+        "name": "Jedi Interceptor",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRbWdYULbFIhTfvIg7cTbETOZPSMUDhxUWhbc-m159YS0bDYYGR",
+        "url": "https://swapi.co/api/starships/65/"
+      },
+      {
+        "id": 66,
+        "name": "Arc-170",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQ-R0BHljpAm1zOlYuCmlyYBIf8WTdJiJkbxj79nVLnu9_BYt5f",
+        "url": "https://swapi.co/api/starships/66/"
+      },
+      {
+        "id": 74,
+        "name": "Belbullab-22 Starfighter",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQBEYDFTLPGnfU4rVjiV4IQ9kWsTELUz0DADFpgC_VOfCItY3WU",
+        "url": "https://swapi.co/api/starships/74/"
+      },
+      {
+        "id": 75,
+        "name": "V-Wing",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTiG7U6Bchrdpz1sUWh9yydRluBlRkM_8CUe36KD7ajX6ObR-Tv",
+        "url": "https://swapi.co/api/starships/75/"
+      },
+      {
+        "id": 2,
+        "name": "CR90 Corvette",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT165w9vnuFxOsGenjAlV7Uv5d-0mxCPUJF27eU6KI9ST-1T_6t",
+        "url": "https://swapi.co/api/starships/2/"
+      },
+      {
+        "id": 68,
+        "name": "Banking Clan Frigate",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT9BYLi6t2145ynB7WdG9nf4QbPBVUBenWUEPWU2wNIfe1z_iEh",
+        "url": "https://swapi.co/api/starships/68/"
       }
   ]
 }
